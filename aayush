@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>GMS</title>
+</head>
+<body>
+<font color="####111" face = "bodoni MT black"><h1 align = "center">Ganeshman singh Academy technical and vocational school</h1></font>
+<center><u><font size = "3"face = "courier new">shivasatakshi-11,jhijhile,jhapa</font></u></center><hr color = "red" size ="3"><hr>
+<marquee behavior="alternate" bg color="yellow"><font color= "6" face="monotype corsiva"> COME TO GANESHMAN SIGHN, SECURE YOUR FUTURE </font></marquee>
+<font size ="3"><br><a href="home.html">home</a>
+<a href="home.html">home</a>
+
+<a href="about us.html">home</a>
+
+<a href="contact us .html">home</a>
+
+<a href="gallery.html">home</a>
+
+<a href="admission.html">home</a>
+<img src="hellos.jpg"width="100%"height="500">
+
+
+
+
+</body>
+</html>
